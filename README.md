@@ -1,4 +1,6 @@
 # Projeto feito em ReactJs.
 ### Professor: Canal - Sujeito Programador (YouTube).
 
-Projeto criaado no intuito de aprender mais a tecnologia.
+Projeto criado no intuito de aprender mais a tecnologia.
+
+![alt text](https://github.com/raphadvlp/buscador/blob/master/screencapture-localhost-3000-2022-01-08-17_43_33.png)
